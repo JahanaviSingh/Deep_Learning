@@ -1,0 +1,1 @@
+"The implementation of Attention mechanisms (Bahdanau and Luong) successfully mitigated the information bottleneck found in vanilla Seq2Seq models. The attention heatmaps provided interpretability, showing that the model focuses on relevant source words to produce accurate translations. Transformers (if tested) further improved this by parallelizing the attention process."
